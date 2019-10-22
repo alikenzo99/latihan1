@@ -1,4 +1,10 @@
 latihan1
+<br/> **NAMA  : ALIMUDIN**
+<br/> **NIM   : 311910057**
+<br/> **UNIV  : UNIVERSITAS PELITA BANGSA**
+<br/> Tugas   : bahasa pemrograman
+<br/>
+<br/>
 # MEMBUAT DAN MENAMBAHKAN FILE REPOSITORY 
 ## install aplikasi
 download dan install aplikasi git sesuai os anda.. bisa download di (https://git-scm.com)
